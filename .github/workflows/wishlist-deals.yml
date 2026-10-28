@@ -1,0 +1,51 @@
+name: Wishlist Deals Notifier
+
+on:
+  schedule:
+    # Her gün Türkiye saati 12:00 (UTC+3) → 09:00 UTC
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: wishlist-deals-notifier
+  cancel-in-progress: false
+
+jobs:
+  notify:
+    name: Check wishlists & notify
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: modules/wishlist-deals
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run wishlist-deals checker
+        env:
+          DISCORD_WEBHOOK_URL_WISHLIST: ${{ secrets.DISCORD_WEBHOOK_URL_WISHLIST }}
+          STEAM_WEB_API_KEY: ${{ secrets.STEAM_WEB_API_KEY }}
+          MIN_DISCOUNT_PERCENT: ${{ vars.MIN_DISCOUNT_PERCENT }}
+        run: npm start
+
+      - name: Commit active deals state
+        working-directory: .
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add modules/wishlist-deals/data/active-deals.json
+          if git diff --staged --quiet; then
+            echo "active-deals.json değişmedi"
+          else
+            git commit -m "chore(wishlist-deals): aktif indirim dönemlerini güncelle"
+            git push
+          fi
