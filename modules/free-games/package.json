@@ -1,0 +1,15 @@
+{
+  "name": "free-games",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Epic, Steam, GOG ve Prime Gaming ücretsiz oyun bildirimleri",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "check": "node src/index.js",
+    "smoke": "node src/smoke-test.js"
+  }
+}
