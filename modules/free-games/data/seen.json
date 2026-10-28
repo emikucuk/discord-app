@@ -1,5 +1,24 @@
 {
   "version": 1,
-  "seeded": false,
-  "items": {}
+  "seeded": true,
+  "items": {
+    "epic:6aab3ddef4f84fbc9dd81c60f9d8549c": {
+      "title": "Sker Ritual",
+      "store": "epic",
+      "url": "https://store.epicgames.com/tr/p/sker-ritual-aac702",
+      "notifiedAt": "2026-10-28T07:52:26.103Z"
+    },
+    "epic:06190191cede42afb633fe89ef08c27e": {
+      "title": "Home - A Unique Horror Adventure",
+      "store": "epic",
+      "url": "https://store.epicgames.com/tr/p/home-19212a",
+      "notifiedAt": "2026-10-28T07:52:26.103Z"
+    },
+    "steam:3716": {
+      "title": "Dwarven Realms (Steam) Key Giveaway",
+      "store": "steam",
+      "url": "https://www.gamerpower.com/open/dwarven-realms-steam-key-giveaway",
+      "notifiedAt": "2026-10-28T07:52:26.103Z"
+    }
+  }
 }

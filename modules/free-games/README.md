@@ -10,10 +10,13 @@ Bağımsız modüldür; kökteki Discord örnek uygulamasına veya diğer modül
 | --- | --- |
 | Mağazalar | Epic, Steam, GOG, Prime Gaming |
 | Ortam | GitHub Actions |
-| Aralık | 1440 dk (günde 1, `0 12 * * *` UTC) |
+| Aralık | Her gün 12:00 TR (`0 9 * * *` UTC) |
 | Mesaj | Görselli Discord embed (TR) |
+| Zenginleştirme | Overview, X.Y/10 puan (Metacritic/Steam), sistem gereksinimleri |
 | Tekrar bildirim | Yok (`data/seen.json`) |
 | Ülke | TR |
+
+Steam Store + SteamSpy ile başlık eşleştirmesi yapılır. Steam’de karşılığı olmayan (ör. salt Epic) oyunlarda puan/gereksinim boş kalabilir.
 
 ## Kurulum
 
@@ -31,7 +34,7 @@ DISCORD_WEBHOOK_URL
 
 ### 3. Workflow’u çalıştır
 
-- Otomatik: her gün 12:00 UTC
+- Otomatik: her gün **12:00 Türkiye saati** (09:00 UTC)
 - Elle: **Actions** → **Free Games Notifier** → **Run workflow**
 
 İlk koşuda mevcut ücretsiz oyunlar **bildirilmeden** `seen.json`’a yazılır (kanal spam’i olmasın diye). Sonraki koşularda yalnızca yeni oyunlar gider.
@@ -44,10 +47,11 @@ DISCORD_WEBHOOK_URL
 cd modules/free-games
 cp .env.example .env
 # .env içine DISCORD_WEBHOOK_URL yaz
-npm start
+npm run test-webhook   # kanala test embed
+npm start              # tarama + yalnızca yeni oyunlar
 ```
 
-Harici npm bağımlılığı yoktur (Node 20+ `fetch`).
+Harici npm bağımlılığı yoktur (Node 20+ `fetch`). Yerelde Discord’a `fetch` timeout olursa otomatik `curl` yedeği kullanılır.
 
 ## Kaynaklar
 

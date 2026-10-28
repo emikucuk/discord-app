@@ -2,8 +2,8 @@ name: Free Games Notifier
 
 on:
   schedule:
-    # Her 1440 dakikada bir (günde 1) — 12:00 UTC
-    - cron: '0 12 * * *'
+    # Her gün Türkiye saati 12:00 (UTC+3) → 09:00 UTC
+    - cron: '0 9 * * *'
   workflow_dispatch:
 
 permissions:

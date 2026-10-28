@@ -3,6 +3,7 @@ import { fileURLToPath } from 'node:url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const moduleRoot = path.resolve(__dirname, '..');
+const logosDir = path.join(moduleRoot, 'assets', 'logos');
 
 /** Yerel .env yükler (GitHub Actions'ta secret kullanılır; dosya zorunlu değil). */
 export async function loadEnvFile() {
@@ -37,6 +38,7 @@ export const config = {
   firstRunNotify: () =>
     String(process.env.FIRST_RUN_NOTIFY || 'false').toLowerCase() === 'true',
   seenFile: path.join(moduleRoot, 'data', 'seen.json'),
+  logosDir,
   userAgent:
     'discord-app-free-games/1.0 (+https://github.com; GitHub Actions notifier)',
   requestTimeoutMs: 25_000,
@@ -44,9 +46,40 @@ export const config = {
   notifyDelayMs: 800,
 };
 
+/**
+ * Mağaza görselleri:
+ * - file: webhook attachment (her zaman çalışır)
+ * - logo: yedek public CDN (Wikimedia 400 verdiği için jsDelivr)
+ * Renkler bilinçli olarak parlak tutuldu (koyu Steam laciverti gömülü kalıyordu).
+ */
 export const storeMeta = {
-  epic: { label: 'Epic Games', color: 0x0078f2 },
-  steam: { label: 'Steam', color: 0x1b2838 },
-  gog: { label: 'GOG', color: 0x86328a },
-  prime: { label: 'Prime Gaming', color: 0x00a8e1 },
+  epic: {
+    label: 'Epic Games',
+    emoji: '🟣',
+    color: 0x2e9bff,
+    file: 'epic.png',
+    logo: 'https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/epic-games.png',
+  },
+  steam: {
+    label: 'Steam',
+    emoji: '🔵',
+    color: 0x66c0f4,
+    file: 'steam.png',
+    logo: 'https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/steam.png',
+  },
+  gog: {
+    label: 'GOG',
+    emoji: '🟣',
+    color: 0xc964ff,
+    file: 'gog.png',
+    // Yerel PNG; CDN yedeği yoksa attachment kullanılır
+    logo: null,
+  },
+  prime: {
+    label: 'Prime Gaming',
+    emoji: '🔷',
+    color: 0x00d4ff,
+    file: 'prime.png',
+    logo: 'https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/amazon-prime.png',
+  },
 };
