@@ -1,4 +1,222 @@
 {
   "version": 1,
-  "deals": {}
+  "deals": {
+    "1071870": {
+      "periodKey": "88:59",
+      "notifiedAt": "2026-10-29T15:42:40.265Z",
+      "title": "Biped",
+      "discountPercent": 88,
+      "final": 59
+    },
+    "1203620": {
+      "periodKey": "10:1799",
+      "notifiedAt": "2026-10-29T15:42:41.691Z",
+      "title": "Enshrouded",
+      "discountPercent": 10,
+      "final": 1799
+    },
+    "1227890": {
+      "periodKey": "70:60",
+      "notifiedAt": "2026-10-29T15:42:43.213Z",
+      "title": "Summer Memories",
+      "discountPercent": 70,
+      "final": 60
+    },
+    "1253220": {
+      "periodKey": "50:624",
+      "notifiedAt": "2026-10-29T15:42:44.865Z",
+      "title": "The Gold River Project",
+      "discountPercent": 50,
+      "final": 624
+    },
+    "1374490": {
+      "periodKey": "30:1399",
+      "notifiedAt": "2026-10-29T15:42:46.557Z",
+      "title": "RuneScape: Dragonwilds",
+      "discountPercent": 30,
+      "final": 1399
+    },
+    "1451940": {
+      "periodKey": "66:288",
+      "notifiedAt": "2026-10-29T15:42:48.498Z",
+      "title": "NEEDY GIRL OVERDOSE",
+      "discountPercent": 66,
+      "final": 288
+    },
+    "1598780": {
+      "periodKey": "30:734",
+      "notifiedAt": "2026-10-29T15:42:50.030Z",
+      "title": "Silly Polly Beast",
+      "discountPercent": 30,
+      "final": 734
+    },
+    "1643320": {
+      "periodKey": "30:3009",
+      "notifiedAt": "2026-10-29T15:42:51.510Z",
+      "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "discountPercent": 30,
+      "final": 3009
+    },
+    "1663850": {
+      "periodKey": "25:614",
+      "notifiedAt": "2026-10-29T15:42:53.358Z",
+      "title": "REPLACED",
+      "discountPercent": 25,
+      "final": 614
+    },
+    "1766060": {
+      "periodKey": "40:569",
+      "notifiedAt": "2026-10-29T15:42:55.173Z",
+      "title": "HumanitZ",
+      "discountPercent": 40,
+      "final": 569
+    },
+    "1820100": {
+      "periodKey": "41:341",
+      "notifiedAt": "2026-10-29T15:42:57.166Z",
+      "title": "DREAMOUT",
+      "discountPercent": 41,
+      "final": 341
+    },
+    "1995520": {
+      "periodKey": "50:1499",
+      "notifiedAt": "2026-10-29T15:42:58.560Z",
+      "title": "Pax Dei",
+      "discountPercent": 50,
+      "final": 1499
+    },
+    "2223840": {
+      "periodKey": "67:461",
+      "notifiedAt": "2026-10-29T15:42:59.906Z",
+      "title": "The Casting of Frank Stone™",
+      "discountPercent": 67,
+      "final": 461
+    },
+    "2353060": {
+      "periodKey": "40:1379",
+      "notifiedAt": "2026-10-29T15:43:01.566Z",
+      "title": "Invincible VS",
+      "discountPercent": 40,
+      "final": 1379
+    },
+    "2686630": {
+      "periodKey": "34:989",
+      "notifiedAt": "2026-10-29T15:43:03.347Z",
+      "title": "Voyagers of Nera",
+      "discountPercent": 34,
+      "final": 989
+    },
+    "2747330": {
+      "periodKey": "20:463",
+      "notifiedAt": "2026-10-29T15:43:05.290Z",
+      "title": "Species: Unknown",
+      "discountPercent": 20,
+      "final": 463
+    },
+    "2748340": {
+      "periodKey": "35:1039",
+      "notifiedAt": "2026-10-29T15:43:06.672Z",
+      "title": "Goblin Cleanup",
+      "discountPercent": 35,
+      "final": 1039
+    },
+    "2880730": {
+      "periodKey": "35:779",
+      "notifiedAt": "2026-10-29T15:43:08.745Z",
+      "title": "AI2U-With You ‘Til The End",
+      "discountPercent": 35,
+      "final": 779
+    },
+    "2887580": {
+      "periodKey": "20:2399",
+      "notifiedAt": "2026-10-29T15:43:10.241Z",
+      "title": "Active Matter",
+      "discountPercent": 20,
+      "final": 2399
+    },
+    "2903710": {
+      "periodKey": "70:188",
+      "notifiedAt": "2026-10-29T15:43:12.142Z",
+      "title": "Lost Lullabies: The Orphanage Chronicles",
+      "discountPercent": 70,
+      "final": 188
+    },
+    "2918090": {
+      "periodKey": "35:389",
+      "notifiedAt": "2026-10-29T15:43:13.637Z",
+      "title": "Fear The Timeloop",
+      "discountPercent": 35,
+      "final": 389
+    },
+    "2956680": {
+      "periodKey": "35:519",
+      "notifiedAt": "2026-10-29T15:43:15.088Z",
+      "title": "LORT",
+      "discountPercent": 35,
+      "final": 519
+    },
+    "3008130": {
+      "periodKey": "50:2249",
+      "notifiedAt": "2026-10-29T15:43:16.603Z",
+      "title": "Dying Light: The Beast",
+      "discountPercent": 50,
+      "final": 2249
+    },
+    "3124540": {
+      "periodKey": "20:1039",
+      "notifiedAt": "2026-10-29T15:43:18.730Z",
+      "title": "Far Far West",
+      "discountPercent": 20,
+      "final": 1039
+    },
+    "3212180": {
+      "periodKey": "40:299",
+      "notifiedAt": "2026-10-29T15:43:20.368Z",
+      "title": "Nightmare Shift",
+      "discountPercent": 40,
+      "final": 299
+    },
+    "3357650": {
+      "periodKey": "20:3599",
+      "notifiedAt": "2026-10-29T15:43:21.787Z",
+      "title": "PRAGMATA",
+      "discountPercent": 20,
+      "final": 3599
+    },
+    "3690010": {
+      "periodKey": "50:149",
+      "notifiedAt": "2026-10-29T15:43:23.270Z",
+      "title": "Who's at the door?",
+      "discountPercent": 50,
+      "final": 149
+    },
+    "3764200": {
+      "periodKey": "30:3674",
+      "notifiedAt": "2026-10-29T15:43:24.676Z",
+      "title": "Resident Evil Requiem",
+      "discountPercent": 30,
+      "final": 3674
+    },
+    "3812600": {
+      "periodKey": "20:799",
+      "notifiedAt": "2026-10-29T15:43:26.202Z",
+      "title": "ReStory: Chill Electronics Repairs",
+      "discountPercent": 20,
+      "final": 799
+    },
+    "4071650": {
+      "periodKey": "35:259",
+      "notifiedAt": "2026-10-29T15:43:27.579Z",
+      "title": "Stream Train",
+      "discountPercent": 35,
+      "final": 259
+    },
+    "4094350": {
+      "periodKey": "15:845",
+      "notifiedAt": "2026-10-29T15:43:29.425Z",
+      "title": "Online: 404",
+      "discountPercent": 15,
+      "final": 845
+    }
+  }
 }
