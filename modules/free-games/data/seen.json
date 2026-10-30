@@ -25,6 +25,18 @@
       "store": "epic",
       "url": "https://store.epicgames.com/tr/p/sorry-were-closed-724c86",
       "notifiedAt": "2026-10-29T15:48:32.616Z"
+    },
+    "steam:3834": {
+      "title": "Hexologic (Steam) Giveaway",
+      "store": "steam",
+      "url": "https://www.gamerpower.com/open/hexologic-steam-giveaway",
+      "notifiedAt": "2026-10-30T15:29:15.697Z"
+    },
+    "gog:3835": {
+      "title": "A New Beginning: Final Cut (GOG) Giveaway",
+      "store": "gog",
+      "url": "https://www.gamerpower.com/open/a-new-beginning-final-cut-gog-giveaway",
+      "notifiedAt": "2026-10-30T15:29:15.697Z"
     }
   }
 }
