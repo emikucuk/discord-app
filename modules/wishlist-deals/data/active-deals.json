@@ -1,20 +1,6 @@
 {
   "version": 1,
   "deals": {
-    "1071870": {
-      "periodKey": "88:59",
-      "notifiedAt": "2026-10-29T15:42:40.265Z",
-      "title": "Biped",
-      "discountPercent": 88,
-      "final": 59
-    },
-    "1203620": {
-      "periodKey": "10:1799",
-      "notifiedAt": "2026-10-29T15:42:41.691Z",
-      "title": "Enshrouded",
-      "discountPercent": 10,
-      "final": 1799
-    },
     "1227890": {
       "periodKey": "70:60",
       "notifiedAt": "2026-10-29T15:42:43.213Z",
@@ -29,19 +15,19 @@
       "discountPercent": 50,
       "final": 624
     },
-    "1374490": {
-      "periodKey": "30:1399",
-      "notifiedAt": "2026-10-29T15:42:46.557Z",
-      "title": "RuneScape: Dragonwilds",
-      "discountPercent": 30,
-      "final": 1399
-    },
     "1451940": {
       "periodKey": "66:288",
       "notifiedAt": "2026-10-29T15:42:48.498Z",
       "title": "NEEDY GIRL OVERDOSE",
       "discountPercent": 66,
       "final": 288
+    },
+    "1588550": {
+      "periodKey": "30:1049",
+      "notifiedAt": "2026-10-30T15:24:36.474Z",
+      "title": "Cairn",
+      "discountPercent": 30,
+      "final": 1049
     },
     "1598780": {
       "periodKey": "30:734",
