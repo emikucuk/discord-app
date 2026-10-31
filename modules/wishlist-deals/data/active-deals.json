@@ -1,6 +1,13 @@
 {
   "version": 1,
   "deals": {
+    "1211020": {
+      "periodKey": "35:811",
+      "notifiedAt": "2026-10-31T14:53:36.774Z",
+      "title": "Wobbly Life",
+      "discountPercent": 35,
+      "final": 811
+    },
     "1227890": {
       "periodKey": "70:60",
       "notifiedAt": "2026-10-29T15:42:43.213Z",
@@ -84,6 +91,13 @@
       "title": "Invincible VS",
       "discountPercent": 40,
       "final": 1379
+    },
+    "2582320": {
+      "periodKey": "25:711",
+      "notifiedAt": "2026-10-31T14:53:38.643Z",
+      "title": "Mixtape",
+      "discountPercent": 25,
+      "final": 711
     },
     "2686630": {
       "periodKey": "34:989",
@@ -189,13 +203,6 @@
       "title": "ReStory: Chill Electronics Repairs",
       "discountPercent": 20,
       "final": 799
-    },
-    "4071650": {
-      "periodKey": "35:259",
-      "notifiedAt": "2026-10-29T15:43:27.579Z",
-      "title": "Stream Train",
-      "discountPercent": 35,
-      "final": 259
     },
     "4094350": {
       "periodKey": "15:845",
