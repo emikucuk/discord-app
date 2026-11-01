@@ -169,6 +169,13 @@
       "discountPercent": 20,
       "final": 1039
     },
+    "3167920": {
+      "periodKey": "33:602",
+      "notifiedAt": "2026-11-01T15:31:35.159Z",
+      "title": "Low-Budget Repairs",
+      "discountPercent": 33,
+      "final": 602
+    },
     "3212180": {
       "periodKey": "40:299",
       "notifiedAt": "2026-10-29T15:43:20.368Z",
@@ -182,6 +189,13 @@
       "title": "PRAGMATA",
       "discountPercent": 20,
       "final": 3599
+    },
+    "3363270": {
+      "periodKey": "50:224",
+      "notifiedAt": "2026-11-01T15:31:36.816Z",
+      "title": "Fischer's Fishing Journey",
+      "discountPercent": 50,
+      "final": 224
     },
     "3690010": {
       "periodKey": "50:149",
