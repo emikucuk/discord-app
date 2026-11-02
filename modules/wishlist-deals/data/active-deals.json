@@ -57,20 +57,6 @@
       "discountPercent": 25,
       "final": 614
     },
-    "1766060": {
-      "periodKey": "40:569",
-      "notifiedAt": "2026-10-29T15:42:55.173Z",
-      "title": "HumanitZ",
-      "discountPercent": 40,
-      "final": 569
-    },
-    "1820100": {
-      "periodKey": "41:341",
-      "notifiedAt": "2026-10-29T15:42:57.166Z",
-      "title": "DREAMOUT",
-      "discountPercent": 41,
-      "final": 341
-    },
     "1995520": {
       "periodKey": "50:1499",
       "notifiedAt": "2026-10-29T15:42:58.560Z",
@@ -84,6 +70,13 @@
       "title": "The Casting of Frank Stone™",
       "discountPercent": 67,
       "final": 461
+    },
+    "2223980": {
+      "periodKey": "10:728",
+      "notifiedAt": "2026-11-02T18:56:15.130Z",
+      "title": "Nomad Drive",
+      "discountPercent": 10,
+      "final": 728
     },
     "2353060": {
       "periodKey": "40:1379",
@@ -99,20 +92,6 @@
       "discountPercent": 25,
       "final": 711
     },
-    "2686630": {
-      "periodKey": "34:989",
-      "notifiedAt": "2026-10-29T15:43:03.347Z",
-      "title": "Voyagers of Nera",
-      "discountPercent": 34,
-      "final": 989
-    },
-    "2747330": {
-      "periodKey": "20:463",
-      "notifiedAt": "2026-10-29T15:43:05.290Z",
-      "title": "Species: Unknown",
-      "discountPercent": 20,
-      "final": 463
-    },
     "2748340": {
       "periodKey": "35:1039",
       "notifiedAt": "2026-10-29T15:43:06.672Z",
@@ -120,33 +99,19 @@
       "discountPercent": 35,
       "final": 1039
     },
-    "2880730": {
-      "periodKey": "35:779",
-      "notifiedAt": "2026-10-29T15:43:08.745Z",
-      "title": "AI2U-With You ‘Til The End",
-      "discountPercent": 35,
-      "final": 779
+    "2756770": {
+      "periodKey": "65:244",
+      "notifiedAt": "2026-11-02T18:56:16.483Z",
+      "title": "Tavern Manager Simulator 🍻",
+      "discountPercent": 65,
+      "final": 244
     },
-    "2887580": {
-      "periodKey": "20:2399",
-      "notifiedAt": "2026-10-29T15:43:10.241Z",
-      "title": "Active Matter",
+    "2788040": {
+      "periodKey": "20:319",
+      "notifiedAt": "2026-11-02T18:56:18.582Z",
+      "title": "Another Try 2",
       "discountPercent": 20,
-      "final": 2399
-    },
-    "2903710": {
-      "periodKey": "70:188",
-      "notifiedAt": "2026-10-29T15:43:12.142Z",
-      "title": "Lost Lullabies: The Orphanage Chronicles",
-      "discountPercent": 70,
-      "final": 188
-    },
-    "2918090": {
-      "periodKey": "35:389",
-      "notifiedAt": "2026-10-29T15:43:13.637Z",
-      "title": "Fear The Timeloop",
-      "discountPercent": 35,
-      "final": 389
+      "final": 319
     },
     "2956680": {
       "periodKey": "35:519",
@@ -162,6 +127,13 @@
       "discountPercent": 50,
       "final": 2249
     },
+    "3008740": {
+      "periodKey": "45:263",
+      "notifiedAt": "2026-11-02T18:56:19.985Z",
+      "title": "Winter Burrow",
+      "discountPercent": 45,
+      "final": 263
+    },
     "3124540": {
       "periodKey": "20:1039",
       "notifiedAt": "2026-10-29T15:43:18.730Z",
@@ -175,13 +147,6 @@
       "title": "Low-Budget Repairs",
       "discountPercent": 33,
       "final": 602
-    },
-    "3212180": {
-      "periodKey": "40:299",
-      "notifiedAt": "2026-10-29T15:43:20.368Z",
-      "title": "Nightmare Shift",
-      "discountPercent": 40,
-      "final": 299
     },
     "3357650": {
       "periodKey": "20:3599",
@@ -197,12 +162,12 @@
       "discountPercent": 50,
       "final": 224
     },
-    "3690010": {
-      "periodKey": "50:149",
-      "notifiedAt": "2026-10-29T15:43:23.270Z",
-      "title": "Who's at the door?",
-      "discountPercent": 50,
-      "final": 149
+    "3393280": {
+      "periodKey": "20:639",
+      "notifiedAt": "2026-11-02T18:56:21.641Z",
+      "title": "Anime Shop Simulator ✨",
+      "discountPercent": 20,
+      "final": 639
     },
     "3764200": {
       "periodKey": "30:3674",
