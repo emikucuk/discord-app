@@ -43,13 +43,6 @@
       "discountPercent": 30,
       "final": 734
     },
-    "1643320": {
-      "periodKey": "30:3009",
-      "notifiedAt": "2026-10-29T15:42:51.510Z",
-      "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-      "discountPercent": 30,
-      "final": 3009
-    },
     "1663850": {
       "periodKey": "25:614",
       "notifiedAt": "2026-10-29T15:42:53.358Z",
@@ -63,13 +56,6 @@
       "title": "Pax Dei",
       "discountPercent": 50,
       "final": 1499
-    },
-    "2223840": {
-      "periodKey": "67:461",
-      "notifiedAt": "2026-10-29T15:42:59.906Z",
-      "title": "The Casting of Frank Stone™",
-      "discountPercent": 67,
-      "final": 461
     },
     "2223980": {
       "periodKey": "10:728",
@@ -134,6 +120,13 @@
       "discountPercent": 45,
       "final": 263
     },
+    "3053950": {
+      "periodKey": "35:555",
+      "notifiedAt": "2026-11-04T16:40:54.899Z",
+      "title": "Dungeon Rampage Remastered",
+      "discountPercent": 35,
+      "final": 555
+    },
     "3124540": {
       "periodKey": "20:1039",
       "notifiedAt": "2026-10-29T15:43:18.730Z",
@@ -148,13 +141,6 @@
       "discountPercent": 33,
       "final": 602
     },
-    "3357650": {
-      "periodKey": "20:3599",
-      "notifiedAt": "2026-10-29T15:43:21.787Z",
-      "title": "PRAGMATA",
-      "discountPercent": 20,
-      "final": 3599
-    },
     "3363270": {
       "periodKey": "50:224",
       "notifiedAt": "2026-11-01T15:31:36.816Z",
@@ -168,13 +154,6 @@
       "title": "Anime Shop Simulator ✨",
       "discountPercent": 20,
       "final": 639
-    },
-    "3764200": {
-      "periodKey": "30:3674",
-      "notifiedAt": "2026-10-29T15:43:24.676Z",
-      "title": "Resident Evil Requiem",
-      "discountPercent": 30,
-      "final": 3674
     },
     "3812600": {
       "periodKey": "20:799",
