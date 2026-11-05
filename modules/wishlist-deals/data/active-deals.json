@@ -127,13 +127,6 @@
       "discountPercent": 35,
       "final": 555
     },
-    "3124540": {
-      "periodKey": "20:1039",
-      "notifiedAt": "2026-10-29T15:43:18.730Z",
-      "title": "Far Far West",
-      "discountPercent": 20,
-      "final": 1039
-    },
     "3167920": {
       "periodKey": "33:602",
       "notifiedAt": "2026-11-01T15:31:35.159Z",
@@ -155,19 +148,19 @@
       "discountPercent": 20,
       "final": 639
     },
-    "3812600": {
-      "periodKey": "20:799",
-      "notifiedAt": "2026-10-29T15:43:26.202Z",
-      "title": "ReStory: Chill Electronics Repairs",
+    "3565480": {
+      "periodKey": "20:458",
+      "notifiedAt": "2026-11-05T16:56:43.182Z",
+      "title": "Roadhouse Simulator",
       "discountPercent": 20,
-      "final": 799
+      "final": 458
     },
-    "4094350": {
-      "periodKey": "15:845",
-      "notifiedAt": "2026-10-29T15:43:29.425Z",
-      "title": "Online: 404",
+    "4269100": {
+      "periodKey": "15:424",
+      "notifiedAt": "2026-11-05T16:56:40.690Z",
+      "title": "What'Sub",
       "discountPercent": 15,
-      "final": 845
+      "final": 424
     }
   }
 }
