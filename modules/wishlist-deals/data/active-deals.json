@@ -15,27 +15,6 @@
       "discountPercent": 70,
       "final": 60
     },
-    "1451940": {
-      "periodKey": "66:288",
-      "notifiedAt": "2026-10-29T15:42:48.498Z",
-      "title": "NEEDY GIRL OVERDOSE",
-      "discountPercent": 66,
-      "final": 288
-    },
-    "1598780": {
-      "periodKey": "30:734",
-      "notifiedAt": "2026-10-29T15:42:50.030Z",
-      "title": "Silly Polly Beast",
-      "discountPercent": 30,
-      "final": 734
-    },
-    "1663850": {
-      "periodKey": "25:614",
-      "notifiedAt": "2026-10-29T15:42:53.358Z",
-      "title": "REPLACED",
-      "discountPercent": 25,
-      "final": 614
-    },
     "2223980": {
       "periodKey": "10:728",
       "notifiedAt": "2026-11-02T18:56:15.130Z",
@@ -50,40 +29,12 @@
       "discountPercent": 25,
       "final": 711
     },
-    "2748340": {
-      "periodKey": "35:1039",
-      "notifiedAt": "2026-10-29T15:43:06.672Z",
-      "title": "Goblin Cleanup",
-      "discountPercent": 35,
-      "final": 1039
-    },
-    "2756770": {
-      "periodKey": "65:244",
-      "notifiedAt": "2026-11-02T18:56:16.483Z",
-      "title": "Tavern Manager Simulator 🍻",
-      "discountPercent": 65,
-      "final": 244
-    },
-    "2788040": {
-      "periodKey": "20:319",
-      "notifiedAt": "2026-11-02T18:56:18.582Z",
-      "title": "Another Try 2",
-      "discountPercent": 20,
-      "final": 319
-    },
     "2956680": {
       "periodKey": "35:519",
       "notifiedAt": "2026-10-29T15:43:15.088Z",
       "title": "LORT",
       "discountPercent": 35,
       "final": 519
-    },
-    "3008130": {
-      "periodKey": "50:2249",
-      "notifiedAt": "2026-10-29T15:43:16.603Z",
-      "title": "Dying Light: The Beast",
-      "discountPercent": 50,
-      "final": 2249
     },
     "3008740": {
       "periodKey": "45:263",
@@ -106,6 +57,13 @@
       "discountPercent": 33,
       "final": 602
     },
+    "3326230": {
+      "periodKey": "30:559",
+      "notifiedAt": "2026-11-09T19:16:56.667Z",
+      "title": "Hozy",
+      "discountPercent": 30,
+      "final": 559
+    },
     "3363270": {
       "periodKey": "50:224",
       "notifiedAt": "2026-11-01T15:31:36.816Z",
@@ -113,19 +71,19 @@
       "discountPercent": 50,
       "final": 224
     },
-    "3393280": {
-      "periodKey": "20:639",
-      "notifiedAt": "2026-11-02T18:56:21.641Z",
-      "title": "Anime Shop Simulator ✨",
-      "discountPercent": 20,
-      "final": 639
-    },
     "3565480": {
       "periodKey": "20:458",
       "notifiedAt": "2026-11-05T16:56:43.182Z",
       "title": "Roadhouse Simulator",
       "discountPercent": 20,
       "final": 458
+    },
+    "3629430": {
+      "periodKey": "10:989",
+      "notifiedAt": "2026-11-09T19:16:57.995Z",
+      "title": "DREADMOOR",
+      "discountPercent": 10,
+      "final": 989
     },
     "4269100": {
       "periodKey": "15:424",
