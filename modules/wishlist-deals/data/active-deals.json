@@ -1,6 +1,13 @@
 {
   "version": 1,
   "deals": {
+    "270880": {
+      "periodKey": "75:264",
+      "notifiedAt": "2026-11-11T16:43:26.164Z",
+      "title": "American Truck Simulator",
+      "discountPercent": 75,
+      "final": 264
+    },
     "1211020": {
       "periodKey": "35:811",
       "notifiedAt": "2026-10-31T14:53:36.774Z",
@@ -8,26 +15,12 @@
       "discountPercent": 35,
       "final": 811
     },
-    "2223980": {
-      "periodKey": "10:728",
-      "notifiedAt": "2026-11-02T18:56:15.130Z",
-      "title": "Nomad Drive",
-      "discountPercent": 10,
-      "final": 728
-    },
     "2582320": {
       "periodKey": "25:711",
       "notifiedAt": "2026-10-31T14:53:38.643Z",
       "title": "Mixtape",
       "discountPercent": 25,
       "final": 711
-    },
-    "3008740": {
-      "periodKey": "45:263",
-      "notifiedAt": "2026-11-02T18:56:19.985Z",
-      "title": "Winter Burrow",
-      "discountPercent": 45,
-      "final": 263
     },
     "3053950": {
       "periodKey": "35:555",
@@ -42,6 +35,13 @@
       "title": "Low-Budget Repairs",
       "discountPercent": 33,
       "final": 602
+    },
+    "3282300": {
+      "periodKey": "20:1039",
+      "notifiedAt": "2026-11-11T16:43:32.818Z",
+      "title": "Mistfall Hunter",
+      "discountPercent": 20,
+      "final": 1039
     },
     "3326230": {
       "periodKey": "30:559",
