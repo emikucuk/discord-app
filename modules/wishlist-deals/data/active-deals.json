@@ -8,6 +8,13 @@
       "discountPercent": 75,
       "final": 264
     },
+    "632300": {
+      "periodKey": "75:374",
+      "notifiedAt": "2026-11-12T17:12:14.428Z",
+      "title": "Hobo: Tough Life",
+      "discountPercent": 75,
+      "final": 374
+    },
     "1211020": {
       "periodKey": "35:811",
       "notifiedAt": "2026-10-31T14:53:36.774Z",
@@ -56,13 +63,6 @@
       "title": "Fischer's Fishing Journey",
       "discountPercent": 50,
       "final": 224
-    },
-    "3565480": {
-      "periodKey": "20:458",
-      "notifiedAt": "2026-11-05T16:56:43.182Z",
-      "title": "Roadhouse Simulator",
-      "discountPercent": 20,
-      "final": 458
     },
     "3629430": {
       "periodKey": "10:989",
