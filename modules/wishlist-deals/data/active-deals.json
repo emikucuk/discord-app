@@ -22,6 +22,13 @@
       "discountPercent": 35,
       "final": 811
     },
+    "2418490": {
+      "periodKey": "25:374",
+      "notifiedAt": "2026-11-13T16:49:54.921Z",
+      "title": "Trakonius",
+      "discountPercent": 25,
+      "final": 374
+    },
     "2582320": {
       "periodKey": "25:711",
       "notifiedAt": "2026-10-31T14:53:38.643Z",
