@@ -29,13 +29,6 @@
       "discountPercent": 35,
       "final": 555
     },
-    "3167920": {
-      "periodKey": "33:602",
-      "notifiedAt": "2026-11-01T15:31:35.159Z",
-      "title": "Low-Budget Repairs",
-      "discountPercent": 33,
-      "final": 602
-    },
     "3282300": {
       "periodKey": "20:1039",
       "notifiedAt": "2026-11-11T16:43:32.818Z",
@@ -50,26 +43,12 @@
       "discountPercent": 30,
       "final": 559
     },
-    "3363270": {
-      "periodKey": "50:224",
-      "notifiedAt": "2026-11-01T15:31:36.816Z",
-      "title": "Fischer's Fishing Journey",
-      "discountPercent": 50,
-      "final": 224
-    },
     "3629430": {
       "periodKey": "10:989",
       "notifiedAt": "2026-11-09T19:16:57.995Z",
       "title": "DREADMOOR",
       "discountPercent": 10,
       "final": 989
-    },
-    "4269100": {
-      "periodKey": "15:424",
-      "notifiedAt": "2026-11-05T16:56:40.690Z",
-      "title": "What'Sub",
-      "discountPercent": 15,
-      "final": 424
     }
   }
 }
