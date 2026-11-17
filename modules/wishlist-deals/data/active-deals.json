@@ -15,6 +15,20 @@
       "discountPercent": 75,
       "final": 374
     },
+    "1627720": {
+      "periodKey": "50:1799",
+      "notifiedAt": "2026-11-17T17:57:57.081Z",
+      "title": "Lies of P",
+      "discountPercent": 50,
+      "final": 1799
+    },
+    "1771300": {
+      "periodKey": "67:1484",
+      "notifiedAt": "2026-11-17T17:57:58.449Z",
+      "title": "Kingdom Come: Deliverance II",
+      "discountPercent": 67,
+      "final": 1484
+    },
     "2418490": {
       "periodKey": "25:374",
       "notifiedAt": "2026-11-13T16:49:54.921Z",
@@ -35,13 +49,6 @@
       "title": "Mistfall Hunter",
       "discountPercent": 20,
       "final": 1039
-    },
-    "3326230": {
-      "periodKey": "30:559",
-      "notifiedAt": "2026-11-09T19:16:56.667Z",
-      "title": "Hozy",
-      "discountPercent": 30,
-      "final": 559
     },
     "3629430": {
       "periodKey": "10:989",
