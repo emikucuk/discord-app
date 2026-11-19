@@ -8,12 +8,12 @@
       "discountPercent": 75,
       "final": 264
     },
-    "632300": {
-      "periodKey": "75:374",
-      "notifiedAt": "2026-11-12T17:12:14.428Z",
-      "title": "Hobo: Tough Life",
-      "discountPercent": 75,
-      "final": 374
+    "524220": {
+      "periodKey": "60:1279",
+      "notifiedAt": "2026-11-19T17:48:51.812Z",
+      "title": "NieR:Automata™",
+      "discountPercent": 60,
+      "final": 1279
     },
     "1627720": {
       "periodKey": "50:1799",
@@ -35,6 +35,13 @@
       "title": "Trakonius",
       "discountPercent": 25,
       "final": 374
+    },
+    "2821610": {
+      "periodKey": "80:599",
+      "notifiedAt": "2026-11-19T17:48:53.252Z",
+      "title": "Echoes of the End: Enhanced Edition",
+      "discountPercent": 80,
+      "final": 599
     },
     "3282300": {
       "periodKey": "20:1039",
