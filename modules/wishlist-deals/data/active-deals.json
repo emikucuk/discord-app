@@ -29,6 +29,41 @@
       "discountPercent": 67,
       "final": 1484
     },
+    "1850570": {
+      "periodKey": "75:474",
+      "notifiedAt": "2026-11-20T17:23:42.584Z",
+      "title": "DEATH STRANDING DIRECTOR'S CUT",
+      "discountPercent": 75,
+      "final": 474
+    },
+    "2001760": {
+      "periodKey": "25:2624",
+      "notifiedAt": "2026-11-20T17:23:44.094Z",
+      "title": "Beast of Reincarnation",
+      "discountPercent": 25,
+      "final": 2624
+    },
+    "2016460": {
+      "periodKey": "40:1079",
+      "notifiedAt": "2026-11-20T17:23:45.986Z",
+      "title": "Tales of the Shire: Bir Yüzüklerin Efendisi™ Oyunu",
+      "discountPercent": 40,
+      "final": 1079
+    },
+    "2215430": {
+      "periodKey": "50:2999",
+      "notifiedAt": "2026-11-20T17:23:47.356Z",
+      "title": "Ghost of Tsushima YÖNETMENİN SÜRÜMÜ",
+      "discountPercent": 50,
+      "final": 2999
+    },
+    "2416450": {
+      "periodKey": "34:989",
+      "notifiedAt": "2026-11-20T17:23:49.129Z",
+      "title": "MOUSE: P.I. For Hire",
+      "discountPercent": 34,
+      "final": 989
+    },
     "2418490": {
       "periodKey": "25:374",
       "notifiedAt": "2026-11-13T16:49:54.921Z",
@@ -56,6 +91,13 @@
       "title": "DREADMOOR",
       "discountPercent": 10,
       "final": 989
+    },
+    "4072240": {
+      "periodKey": "20:399",
+      "notifiedAt": "2026-11-20T17:23:50.610Z",
+      "title": "Woman Simulator",
+      "discountPercent": 20,
+      "final": 399
     }
   }
 }
