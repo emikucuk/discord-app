@@ -15,12 +15,26 @@
       "discountPercent": 60,
       "final": 1279
     },
+    "1501310": {
+      "periodKey": "20:999",
+      "notifiedAt": "2026-11-21T16:28:39.925Z",
+      "title": "The Ranchers",
+      "discountPercent": 20,
+      "final": 999
+    },
     "1627720": {
       "periodKey": "50:1799",
       "notifiedAt": "2026-11-17T17:57:57.081Z",
       "title": "Lies of P",
       "discountPercent": 50,
       "final": 1799
+    },
+    "1643320": {
+      "periodKey": "30:4059",
+      "notifiedAt": "2026-11-21T16:28:41.325Z",
+      "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "discountPercent": 30,
+      "final": 4059
     },
     "1771300": {
       "periodKey": "67:1484",
@@ -71,11 +85,25 @@
       "discountPercent": 25,
       "final": 374
     },
+    "2661300": {
+      "periodKey": "20:1679",
+      "notifiedAt": "2026-11-21T16:28:42.727Z",
+      "title": "Grounded 2",
+      "discountPercent": 20,
+      "final": 1679
+    },
     "2821610": {
       "periodKey": "80:599",
       "notifiedAt": "2026-11-19T17:48:53.252Z",
       "title": "Echoes of the End: Enhanced Edition",
       "discountPercent": 80,
+      "final": 599
+    },
+    "3047750": {
+      "periodKey": "50:599",
+      "notifiedAt": "2026-11-21T16:28:44.391Z",
+      "title": "Herdling",
+      "discountPercent": 50,
       "final": 599
     },
     "3282300": {
