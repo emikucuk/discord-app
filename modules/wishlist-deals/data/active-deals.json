@@ -99,6 +99,13 @@
       "discountPercent": 80,
       "final": 599
     },
+    "2846530": {
+      "periodKey": "15:726",
+      "notifiedAt": "2026-11-22T16:45:13.686Z",
+      "title": "BrokenLore: FOLLOW",
+      "discountPercent": 15,
+      "final": 726
+    },
     "3047750": {
       "periodKey": "50:599",
       "notifiedAt": "2026-11-21T16:28:44.391Z",
