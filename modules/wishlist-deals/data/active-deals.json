@@ -15,6 +15,34 @@
       "discountPercent": 60,
       "final": 1279
     },
+    "699130": {
+      "periodKey": "75:499",
+      "notifiedAt": "2026-11-23T20:40:06.260Z",
+      "title": "World War Z",
+      "discountPercent": 75,
+      "final": 499
+    },
+    "1003520": {
+      "periodKey": "60:79",
+      "notifiedAt": "2026-11-23T20:40:07.793Z",
+      "title": "Hentai Crush",
+      "discountPercent": 60,
+      "final": 79
+    },
+    "1202690": {
+      "periodKey": "90:44",
+      "notifiedAt": "2026-11-23T20:40:09.183Z",
+      "title": "Sex with the Devil",
+      "discountPercent": 90,
+      "final": 44
+    },
+    "1363080": {
+      "periodKey": "35:1299",
+      "notifiedAt": "2026-11-23T20:40:10.618Z",
+      "title": "Manor Lords",
+      "discountPercent": 35,
+      "final": 1299
+    },
     "1501310": {
       "periodKey": "20:999",
       "notifiedAt": "2026-11-21T16:28:39.925Z",
@@ -85,6 +113,13 @@
       "discountPercent": 25,
       "final": 374
     },
+    "2608620": {
+      "periodKey": "85:53",
+      "notifiedAt": "2026-11-23T20:40:11.996Z",
+      "title": "Sex, Please",
+      "discountPercent": 85,
+      "final": 53
+    },
     "2661300": {
       "periodKey": "20:1679",
       "notifiedAt": "2026-11-21T16:28:42.727Z",
@@ -99,13 +134,6 @@
       "discountPercent": 80,
       "final": 599
     },
-    "2846530": {
-      "periodKey": "15:726",
-      "notifiedAt": "2026-11-22T16:45:13.686Z",
-      "title": "BrokenLore: FOLLOW",
-      "discountPercent": 15,
-      "final": 726
-    },
     "3047750": {
       "periodKey": "50:599",
       "notifiedAt": "2026-11-21T16:28:44.391Z",
@@ -113,19 +141,12 @@
       "discountPercent": 50,
       "final": 599
     },
-    "3282300": {
-      "periodKey": "20:1039",
-      "notifiedAt": "2026-11-11T16:43:32.818Z",
-      "title": "Mistfall Hunter",
+    "3751260": {
+      "periodKey": "20:3999",
+      "notifiedAt": "2026-11-23T20:40:13.631Z",
+      "title": "The Blood of Dawnwalker",
       "discountPercent": 20,
-      "final": 1039
-    },
-    "3629430": {
-      "periodKey": "10:989",
-      "notifiedAt": "2026-11-09T19:16:57.995Z",
-      "title": "DREADMOOR",
-      "discountPercent": 10,
-      "final": 989
+      "final": 3999
     },
     "4072240": {
       "periodKey": "20:399",
@@ -133,6 +154,13 @@
       "title": "Woman Simulator",
       "discountPercent": 20,
       "final": 399
+    },
+    "4435490": {
+      "periodKey": "15:5949",
+      "notifiedAt": "2026-11-23T20:40:15.780Z",
+      "title": "Call of Duty®: Modern Warfare® 4",
+      "discountPercent": 15,
+      "final": 5949
     }
   }
 }
