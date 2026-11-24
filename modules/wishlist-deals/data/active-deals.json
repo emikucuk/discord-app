@@ -1,13 +1,6 @@
 {
   "version": 1,
   "deals": {
-    "270880": {
-      "periodKey": "75:264",
-      "notifiedAt": "2026-11-11T16:43:26.164Z",
-      "title": "American Truck Simulator",
-      "discountPercent": 75,
-      "final": 264
-    },
     "524220": {
       "periodKey": "60:1279",
       "notifiedAt": "2026-11-19T17:48:51.812Z",
@@ -155,12 +148,12 @@
       "discountPercent": 20,
       "final": 399
     },
-    "4435490": {
-      "periodKey": "15:5949",
-      "notifiedAt": "2026-11-23T20:40:15.780Z",
-      "title": "Call of Duty®: Modern Warfare® 4",
-      "discountPercent": 15,
-      "final": 5949
+    "4156500": {
+      "periodKey": "10:719",
+      "notifiedAt": "2026-11-24T19:46:37.148Z",
+      "title": "Rekindled: Cozy Tavern Life",
+      "discountPercent": 10,
+      "final": 719
     }
   }
 }
