@@ -99,19 +99,19 @@
       "discountPercent": 50,
       "final": 2999
     },
-    "2418490": {
-      "periodKey": "25:374",
-      "notifiedAt": "2026-11-13T16:49:54.921Z",
-      "title": "Trakonius",
-      "discountPercent": 25,
-      "final": 374
-    },
     "2420660": {
       "periodKey": "60:419",
       "notifiedAt": "2026-11-26T18:42:36.302Z",
       "title": "Neva",
       "discountPercent": 60,
       "final": 419
+    },
+    "2553040": {
+      "periodKey": "40:479",
+      "notifiedAt": "2026-11-27T18:32:40.750Z",
+      "title": "Nested Lands",
+      "discountPercent": 40,
+      "final": 479
     },
     "2608620": {
       "periodKey": "85:53",
@@ -148,6 +148,13 @@
       "discountPercent": 20,
       "final": 3999
     },
+    "3861710": {
+      "periodKey": "20:639",
+      "notifiedAt": "2026-11-27T18:32:43.010Z",
+      "title": "Otterly Lost",
+      "discountPercent": 20,
+      "final": 639
+    },
     "4072240": {
       "periodKey": "20:399",
       "notifiedAt": "2026-11-20T17:23:50.610Z",
@@ -168,6 +175,13 @@
       "title": "Reshine",
       "discountPercent": 20,
       "final": 519
+    },
+    "4776500": {
+      "periodKey": "10:449",
+      "notifiedAt": "2026-11-27T18:32:39.313Z",
+      "title": "Carry On Together",
+      "discountPercent": 10,
+      "final": 449
     }
   }
 }
