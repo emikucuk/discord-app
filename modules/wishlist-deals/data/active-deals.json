@@ -22,26 +22,12 @@
       "discountPercent": 60,
       "final": 79
     },
-    "1016800": {
-      "periodKey": "80:299",
-      "notifiedAt": "2026-11-26T18:42:34.448Z",
-      "title": "Chernobylite Complete Edition",
-      "discountPercent": 80,
-      "final": 299
-    },
     "1202690": {
       "periodKey": "90:44",
       "notifiedAt": "2026-11-23T20:40:09.183Z",
       "title": "Sex with the Devil",
       "discountPercent": 90,
       "final": 44
-    },
-    "1363080": {
-      "periodKey": "35:1299",
-      "notifiedAt": "2026-11-23T20:40:10.618Z",
-      "title": "Manor Lords",
-      "discountPercent": 35,
-      "final": 1299
     },
     "1501310": {
       "periodKey": "20:999",
@@ -64,19 +50,19 @@
       "discountPercent": 30,
       "final": 4059
     },
-    "1771300": {
-      "periodKey": "67:1484",
-      "notifiedAt": "2026-11-17T17:57:58.449Z",
-      "title": "Kingdom Come: Deliverance II",
-      "discountPercent": 67,
-      "final": 1484
-    },
     "1850570": {
       "periodKey": "75:474",
       "notifiedAt": "2026-11-20T17:23:42.584Z",
       "title": "DEATH STRANDING DIRECTOR'S CUT",
       "discountPercent": 75,
       "final": 474
+    },
+    "2001120": {
+      "periodKey": "40:2999",
+      "notifiedAt": "2026-11-28T17:14:41.536Z",
+      "title": "Split Fiction",
+      "discountPercent": 40,
+      "final": 2999
     },
     "2001760": {
       "periodKey": "25:2624",
@@ -106,26 +92,12 @@
       "discountPercent": 60,
       "final": 419
     },
-    "2553040": {
-      "periodKey": "40:479",
-      "notifiedAt": "2026-11-27T18:32:40.750Z",
-      "title": "Nested Lands",
-      "discountPercent": 40,
-      "final": 479
-    },
     "2608620": {
       "periodKey": "85:53",
       "notifiedAt": "2026-11-23T20:40:11.996Z",
       "title": "Sex, Please",
       "discountPercent": 85,
       "final": 53
-    },
-    "2661300": {
-      "periodKey": "20:1679",
-      "notifiedAt": "2026-11-21T16:28:42.727Z",
-      "title": "Grounded 2",
-      "discountPercent": 20,
-      "final": 1679
     },
     "2821610": {
       "periodKey": "80:599",
@@ -155,13 +127,6 @@
       "discountPercent": 20,
       "final": 639
     },
-    "4072240": {
-      "periodKey": "20:399",
-      "notifiedAt": "2026-11-20T17:23:50.610Z",
-      "title": "Woman Simulator",
-      "discountPercent": 20,
-      "final": 399
-    },
     "4156500": {
       "periodKey": "10:719",
       "notifiedAt": "2026-11-24T19:46:37.148Z",
@@ -175,6 +140,13 @@
       "title": "Reshine",
       "discountPercent": 20,
       "final": 519
+    },
+    "4435490": {
+      "periodKey": "15:5949",
+      "notifiedAt": "2026-11-28T17:14:39.732Z",
+      "title": "Call of Duty®: Modern Warfare® 4",
+      "discountPercent": 15,
+      "final": 5949
     },
     "4776500": {
       "periodKey": "10:449",
